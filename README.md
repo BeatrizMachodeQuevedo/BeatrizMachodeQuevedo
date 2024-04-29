@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BeatrizMachodeQuevedo
+- I am the Speaker in Tech you need in your Conference/Event.
 - 👀 I’m interested in product management, project management, leadership, technology and innovation.
 - 🌱 I’m currently a student in Fundación Telefónica (Madrid). I am an Industrial Engineer +Erasmus @Sweden +Industrial_Organization +ThePowerMBA +Digital_Marketing +APIs +iOS +Android +Postman +Microservices +EUcommisionsDigitalProjects
 - 💞️ I’m looking to collaborate on the development of happy digital products.
